@@ -1,0 +1,82 @@
+<svg width="436" height="408" viewBox="0 0 436 408" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Sun cloudy</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(2 0 0 2 2110 -648)">
+<g id="Sun cloudy">
+<g id="Sun">
+<g id="Ellipse">
+<use xlink:href="#path0_fill" transform="translate(-1011.84 363.5)" fill="#F7D771"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path1_stroke" transform="matrix(-6.66134e-16 -1 1 -4.62593e-16 -1049 426.417)" fill="#F7D771"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path2_stroke" transform="matrix(0.707844 -0.706369 0.707844 0.706369 -1020.19 356)" fill="#F7D771"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path3_stroke" transform="matrix(-0.707844 -0.706369 0.707844 -0.706369 -899.104 375.791)" fill="#F7D771"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path2_stroke" transform="matrix(0.707844 0.706369 -0.707844 0.706369 -999.523 476)" fill="#F7D771"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path3_stroke" transform="matrix(-0.707844 0.706369 -0.707844 -0.706369 -878.437 496.624)" fill="#F7D771"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path1_stroke" transform="matrix(-5.5627e-16 -1 1 -5.53955e-16 -878.228 426)" fill="#F7D771"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path4_stroke" transform="translate(-949.209 326)" fill="#F7D771"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path4_stroke" transform="translate(-949.209 496.833)" fill="#F7D771"/>
+</g>
+</g>
+<g id="Cloud2">
+<g id="Ellipse 3">
+<use xlink:href="#path5_fill" transform="translate(-960 456)" fill="#C4C4C4"/>
+</g>
+<g id="Ellipse 3">
+<use xlink:href="#path5_fill" transform="translate(-915 447)" fill="#C4C4C4"/>
+</g>
+<g id="Ellipse 3">
+<use xlink:href="#path5_fill" transform="translate(-907 456)" fill="#C4C4C4"/>
+</g>
+<g id="Vector 4">
+<use xlink:href="#path6_fill" transform="translate(-927 512.5)" fill="#C4C4C4"/>
+</g>
+<g id="Vector 5">
+<use xlink:href="#path7_fill" transform="translate(-856 456.5)" fill="#C4C4C4"/>
+</g>
+</g>
+<g id="Cloud">
+<g id="Ellipse 2">
+<use xlink:href="#path8_fill" transform="translate(-1055 381.148)" fill="#C4C4C4"/>
+</g>
+<g id="Ellipse 2">
+<use xlink:href="#path9_fill" transform="translate(-1018.89 363)" fill="#C4C4C4"/>
+</g>
+<g id="Ellipse 2">
+<use xlink:href="#path10_fill" transform="translate(-982.778 381.148)" fill="#C4C4C4"/>
+</g>
+<g id="Vector 3">
+<use xlink:href="#path11_fill" transform="translate(-1027.56 412.907)" fill="#C4C4C4"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 125.261 62.5C 125.261 97.0178 97.2203 125 62.6305 125C 28.0406 125 0 97.0178 0 62.5C 0 27.9822 28.0406 0 62.6305 0C 97.2203 0 125.261 27.9822 125.261 62.5Z"/>
+<path id="path1_stroke" d="M -2 29.2276C -2 30.3321 -1.10457 31.2276 0 31.2276C 1.10457 31.2276 2 30.3321 2 29.2276L -2 29.2276ZM 2 0C 2 -1.10457 1.10457 -2 0 -2C -1.10457 -2 -2 -1.10457 -2 0L 2 0ZM 2 29.2276L 2 0L -2 0L -2 29.2276L 2 29.2276Z"/>
+<path id="path2_stroke" d="M -2 29.1971C -2 30.3017 -1.10457 31.1971 0 31.1971C 1.10457 31.1971 2 30.3017 2 29.1971L -2 29.1971ZM 2 0C 2 -1.10457 1.10457 -2 0 -2C -1.10457 -2 -2 -1.10457 -2 0L 2 0ZM 2 29.1971L 2 0L -2 0L -2 29.1971L 2 29.1971Z"/>
+<path id="path3_stroke" d="M -2 29.1971C -2 30.3017 -1.10457 31.1971 0 31.1971C 1.10457 31.1971 2 30.3017 2 29.1971L -2 29.1971ZM 2 0C 2 -1.10457 1.10457 -2 0 -2C -1.10457 -2 -2 -1.10457 -2 0L 2 0ZM 2 29.1971L 2 0L -2 0L -2 29.1971L 2 29.1971Z"/>
+<path id="path4_stroke" d="M -2 29.1667C -2 30.2712 -1.10457 31.1667 0 31.1667C 1.10457 31.1667 2 30.2712 2 29.1667L -2 29.1667ZM 2 0C 2 -1.10457 1.10457 -2 0 -2C -1.10457 -2 -2 -1.10457 -2 0L 2 0ZM 2 29.1667L 2 0L -2 0L -2 29.1667L 2 29.1667Z"/>
+<path id="path5_fill" d="M 70 35C 70 54.33 54.33 70 35 70C 15.67 70 0 54.33 0 35C 0 15.67 15.67 0 35 0C 54.33 0 70 15.67 70 35Z"/>
+<path id="path6_fill" d="M 55 13.5L 0 13.5L 29 0L 55 13.5Z"/>
+<path id="path7_fill" d="M 13 14.5L 0 0L 0 0.5L 0 1.5L 13 14.5Z"/>
+<path id="path8_fill" d="M 57.7778 25.9259C 57.7778 40.2444 44.8438 51.8519 28.8889 51.8519C 12.934 51.8519 0 40.2444 0 25.9259C 0 11.6074 12.934 0 28.8889 0C 44.8438 0 57.7778 11.6074 57.7778 25.9259Z"/>
+<path id="path9_fill" d="M 57.7778 25.9259C 57.7778 40.2444 44.8438 51.8518 28.8889 51.8518C 12.934 51.8518 0 40.2444 0 25.9259C 0 11.6074 12.934 0 28.8889 0C 44.8438 0 57.7778 11.6074 57.7778 25.9259Z"/>
+<path id="path10_fill" d="M 57.7778 25.9259C 57.7778 40.2444 44.8438 51.8519 28.8889 51.8519C 12.934 51.8519 0 40.2444 0 25.9259C 0 11.6074 12.934 0 28.8889 0C 44.8438 0 57.7778 11.6074 57.7778 25.9259Z"/>
+<path id="path11_fill" d="M 75.1111 20.0926L 0 20.0926L 27.4444 0L 46.2222 0L 75.1111 20.0926Z"/>
+</defs>
+</svg>

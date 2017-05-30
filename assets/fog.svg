@@ -1,0 +1,27 @@
+<svg width="424" height="156" viewBox="0 0 424 156" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Fog</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(2 0 0 2 2090 -1082)">
+<g id="Fog">
+<g id="Vector 12" filter="url(#filter0_f)">
+<use xlink:href="#path0_stroke" transform="translate(-1017.6 544)" fill="#95A5A6"/>
+</g>
+<g id="Vector 12" filter="url(#filter1_f)">
+<use xlink:href="#path0_stroke" transform="translate(-1042 552)" fill="#95A5A6"/>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_f" filterUnits="userSpaceOnUse" x="-1021" y="541" width="188" height="70" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="1" result="effect1_foregroundBlur"/>
+</filter>
+<filter id="filter1_f" filterUnits="userSpaceOnUse" x="-1045" y="549" width="188" height="70" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="1" result="effect1_foregroundBlur"/>
+</filter>
+<path id="path0_stroke" d="M 18.7699 -0.75C 18.3557 -0.75 18.0199 -0.414214 18.0199 0C 18.0199 0.414214 18.3557 0.75 18.7699 0.75L 18.7699 -0.75ZM 117.312 0.75C 117.726 0.75 118.062 0.414214 118.062 0C 118.062 -0.414214 117.726 -0.75 117.312 -0.75L 117.312 0.75ZM 0 15.25C -0.414214 15.25 -0.75 15.5858 -0.75 16C -0.75 16.4142 -0.414214 16.75 0 16.75L 0 15.25ZM 107.927 16.75C 108.341 16.75 108.677 16.4142 108.677 16C 108.677 15.5858 108.341 15.25 107.927 15.25L 107.927 16.75ZM 38.4784 29.25C 38.0641 29.25 37.7284 29.5858 37.7284 30C 37.7284 30.4142 38.0641 30.75 38.4784 30.75L 38.4784 29.25ZM 160.014 30.75C 160.428 30.75 160.764 30.4142 160.764 30C 160.764 29.5858 160.428 29.25 160.014 29.25L 160.014 30.75ZM 0 47.75C -0.414214 47.75 -0.75 48.0858 -0.75 48.5C -0.75 48.9142 -0.414214 49.25 0 49.25L 0 47.75ZM 107.927 49.25C 108.341 49.25 108.677 48.9142 108.677 48.5C 108.677 48.0858 108.341 47.75 107.927 47.75L 107.927 49.25ZM 38.4784 63.25C 38.0641 63.25 37.7284 63.5858 37.7284 64C 37.7284 64.4142 38.0641 64.75 38.4784 64.75L 38.4784 63.25ZM 181.599 64.75C 182.013 64.75 182.349 64.4142 182.349 64C 182.349 63.5858 182.013 63.25 181.599 63.25L 181.599 64.75ZM 18.7699 0.75L 117.312 0.75L 117.312 -0.75L 18.7699 -0.75L 18.7699 0.75ZM 0 16.75L 107.927 16.75L 107.927 15.25L 0 15.25L 0 16.75ZM 38.4784 30.75L 160.014 30.75L 160.014 29.25L 38.4784 29.25L 38.4784 30.75ZM 0 49.25L 107.927 49.25L 107.927 47.75L 0 47.75L 0 49.25ZM 38.4784 64.75L 181.599 64.75L 181.599 63.25L 38.4784 63.25L 38.4784 64.75Z"/>
+</defs>
+</svg>

@@ -1,0 +1,95 @@
+<svg width="260" height="200" viewBox="0 0 260 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Sleet</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(2 0 0 2 1150 -1074)">
+<g id="Sleet">
+<g id="Cloud">
+<g id="Ellipse 2">
+<use xlink:href="#path0_fill" transform="translate(-575 556.269)" fill="#737373"/>
+</g>
+<g id="Ellipse 2">
+<use xlink:href="#path1_fill" transform="translate(-538.889 537)" fill="#737373"/>
+</g>
+<g id="Ellipse 2">
+<use xlink:href="#path1_fill" transform="translate(-502.778 556.269)" fill="#737373"/>
+</g>
+<g id="Vector 3">
+<use xlink:href="#path2_fill" transform="translate(-547.556 589.99)" fill="#737373"/>
+</g>
+</g>
+<g id="Ellipse 6">
+<use xlink:href="#path3_fill" transform="translate(-544.667 621.398)" fill="#3498DB"/>
+</g>
+<g id="Vector 9">
+<use xlink:href="#path4_stroke" transform="translate(-542.5 615.378)" fill="#3498DB"/>
+</g>
+<g id="Ellipse 6">
+<use xlink:href="#path5_fill" transform="translate(-528.778 621.398)" fill="#3498DB"/>
+</g>
+<g id="Vector 9">
+<use xlink:href="#path4_stroke" transform="translate(-526.611 615.378)" fill="#3498DB"/>
+</g>
+<g id="Ellipse 6">
+<use xlink:href="#path5_fill" transform="translate(-514.333 621.398)" fill="#3498DB"/>
+</g>
+<g id="Vector 9">
+<use xlink:href="#path4_stroke" transform="translate(-512.167 615.378)" fill="#3498DB"/>
+</g>
+<g id="Ellipse 6">
+<use xlink:href="#path6_fill" transform="translate(-498.444 621.398)" fill="#3498DB"/>
+</g>
+<g id="Vector 9">
+<use xlink:href="#path4_stroke" transform="translate(-496.278 615.378)" fill="#3498DB"/>
+</g>
+<g id="Ellipse 6">
+<use xlink:href="#path6_fill" transform="translate(-482.556 621.398)" fill="#3498DB"/>
+</g>
+<g id="Vector 9">
+<use xlink:href="#path4_stroke" transform="translate(-480.389 615.378)" fill="#3498DB"/>
+</g>
+<g id="Ellipse 6">
+<use xlink:href="#path7_fill" transform="translate(-550.444 633.56)" fill="#3498DB"/>
+</g>
+<g id="Vector 9">
+<use xlink:href="#path4_stroke" transform="translate(-548.278 627.541)" fill="#3498DB"/>
+</g>
+<g id="Ellipse 6">
+<use xlink:href="#path8_fill" transform="translate(-534.556 633.56)" fill="#3498DB"/>
+</g>
+<g id="Vector 9">
+<use xlink:href="#path4_stroke" transform="translate(-532.389 627.541)" fill="#3498DB"/>
+</g>
+<g id="Ellipse 6">
+<use xlink:href="#path9_fill" transform="translate(-520.111 633.56)" fill="#3498DB"/>
+</g>
+<g id="Vector 9">
+<use xlink:href="#path4_stroke" transform="translate(-517.944 627.541)" fill="#3498DB"/>
+</g>
+<g id="Ellipse 6">
+<use xlink:href="#path8_fill" transform="translate(-504.222 633.56)" fill="#3498DB"/>
+</g>
+<g id="Vector 9">
+<use xlink:href="#path4_stroke" transform="translate(-502.056 627.541)" fill="#3498DB"/>
+</g>
+<g id="Ellipse 6">
+<use xlink:href="#path10_fill" transform="translate(-488.333 633.56)" fill="#3498DB"/>
+</g>
+<g id="Vector 9">
+<use xlink:href="#path4_stroke" transform="translate(-486.167 627.541)" fill="#3498DB"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 57.7778 27.5275C 57.7778 42.7306 44.8438 55.0551 28.8889 55.0551C 12.934 55.0551 0 42.7306 0 27.5275C 0 12.3245 12.934 0 28.8889 0C 44.8438 0 57.7778 12.3245 57.7778 27.5275Z"/>
+<path id="path1_fill" d="M 57.7778 27.5275C 57.7778 42.7306 44.8438 55.0551 28.8889 55.0551C 12.934 55.0551 0 42.7306 0 27.5275C 0 12.3245 12.934 0 28.8889 0C 44.8438 0 57.7778 12.3245 57.7778 27.5275Z"/>
+<path id="path2_fill" d="M 75.1111 21.3338L 0 21.3338L 27.4444 0L 46.2222 0L 75.1111 21.3338Z"/>
+<path id="path3_fill" d="M 4.33333 1.7199C 4.33333 2.66978 3.36328 3.4398 2.16667 3.4398C 0.970049 3.4398 0 2.66978 0 1.7199C 0 0.770026 0.970049 0 2.16667 0C 3.36328 0 4.33333 0.770026 4.33333 1.7199Z"/>
+<path id="path4_stroke" d="M -0.5 7.73956C -0.5 8.0157 -0.276142 8.23956 0 8.23956C 0.276142 8.23956 0.5 8.0157 0.5 7.73956L -0.5 7.73956ZM 0.5 0C 0.5 -0.276142 0.276142 -0.5 0 -0.5C -0.276142 -0.5 -0.5 -0.276142 -0.5 0L 0.5 0ZM 0.5 7.73956L 0.5 0L -0.5 0L -0.5 7.73956L 0.5 7.73956Z"/>
+<path id="path5_fill" d="M 4.33333 1.7199C 4.33333 2.66978 3.36328 3.4398 2.16667 3.4398C 0.970049 3.4398 0 2.66978 0 1.7199C 0 0.770026 0.970049 0 2.16667 0C 3.36328 0 4.33333 0.770026 4.33333 1.7199Z"/>
+<path id="path6_fill" d="M 4.33333 1.7199C 4.33333 2.66978 3.36328 3.4398 2.16666 3.4398C 0.970049 3.4398 0 2.66978 0 1.7199C 0 0.770026 0.970049 0 2.16666 0C 3.36328 0 4.33333 0.770026 4.33333 1.7199Z"/>
+<path id="path7_fill" d="M 4.33333 1.71991C 4.33333 2.66978 3.36328 3.43981 2.16667 3.43981C 0.97005 3.43981 0 2.66978 0 1.71991C 0 0.770028 0.97005 0 2.16667 0C 3.36328 0 4.33333 0.770028 4.33333 1.71991Z"/>
+<path id="path8_fill" d="M 4.33334 1.71991C 4.33334 2.66978 3.36329 3.43981 2.16667 3.43981C 0.97005 3.43981 0 2.66978 0 1.71991C 0 0.770028 0.97005 0 2.16667 0C 3.36329 0 4.33334 0.770028 4.33334 1.71991Z"/>
+<path id="path9_fill" d="M 4.33333 1.71991C 4.33333 2.66978 3.36328 3.43981 2.16667 3.43981C 0.970049 3.43981 0 2.66978 0 1.71991C 0 0.770028 0.970049 0 2.16667 0C 3.36328 0 4.33333 0.770028 4.33333 1.71991Z"/>
+<path id="path10_fill" d="M 4.33333 1.71991C 4.33333 2.66978 3.36328 3.43981 2.16666 3.43981C 0.970049 3.43981 0 2.66978 0 1.71991C 0 0.770028 0.970049 0 2.16666 0C 3.36328 0 4.33333 0.770028 4.33333 1.71991Z"/>
+</defs>
+</svg>
