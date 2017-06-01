@@ -1,16 +1,20 @@
 window.onload = function (){
-  //Navigator geolocation to get coordinates
-  if (navigator.geolocation){
-    navigator.geolocation.getCurrentPosition(function(position){
-      var pos = {
-        lat: position.coords.latitude,
-        lng: position.coords.longitude
-      };
+  //API request to get the coordinates
+  var geo = new XMLHttpRequest();
+  geo.open("GET", "https://ipapi.co/json/", true);
+  geo.send();
+  geo.onload = function (){
+    if (geo.status >= 200 && geo.status < 400){
+      //Success getting Longitude and Latitude
+      var loc = JSON.parse(geo.responseText);
+      var latitude = loc.latitude;
+      var longitude = loc.longitude;
+      console.warn(latitude, longitude);
+
       //API to get the weather
       var http = new XMLHttpRequest();
       http.open("GET", "https://cors-anywhere.herokuapp.com/https://api.darksky.net/forecast/1f41f1376bbdca6c9074fe7bd855499a/"
-      + encodeURI(pos.lat + "," + pos.lng) , true);
-
+      + encodeURI(latitude + "," + longitude) , true);
       http.send();
       http.onload = function () {
         if (http.status >= 200 && http.status < 400){
@@ -110,11 +114,9 @@ window.onload = function (){
         }
 
       };
-      console.warn(pos.lat, pos.lng);
-    });
-  }else{
-    alert("Your browser doesn't support geolocation");
-  }
-
+    }else{
+      console.warn("Error");
+    }
+  };
 
 };
