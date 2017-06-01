@@ -31,7 +31,7 @@ window.onload = function (){
         var weather = document.getElementById("weather");
 
 
-        city.innerHTML = data.timezone.replace(/([/])/g, ", ").replace(/([_])/g, " ");
+        city.innerHTML = loc.city;
 
 
         //If timezone is America set scale to Fahrenheit else set it to Celsius
