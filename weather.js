@@ -13,7 +13,7 @@ window.onload = function (){
 
       //API to get the weather
       var http = new XMLHttpRequest();
-      http.open("GET", "https://cors-anywhere.herokuapp.com/https://api.darksky.net/forecast/8b78716c3c8614cd2a5dbb817638f4ea/"
+      http.open("GET", "https://cors-anywhere.herokuapp.com/https://api.darksky.net/forecast/1f41f1376bbdca6c9074fe7bd855499a/"
       + encodeURI(latitude + "," + longitude) , true);
       http.send();
       http.onload = function () {
