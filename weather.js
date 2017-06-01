@@ -10,6 +10,7 @@ window.onload = function (){
       var http = new XMLHttpRequest();
       http.open("GET", "https://cors-anywhere.herokuapp.com/https://api.darksky.net/forecast/1f41f1376bbdca6c9074fe7bd855499a/"
       + encodeURI(pos.lat + "," + pos.lng) , true);
+
       http.send();
       http.onload = function () {
         if (http.status >= 200 && http.status < 400){
