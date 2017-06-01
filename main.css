@@ -27,6 +27,10 @@ body{
 #city{
   margin-top: 1.1em;
 }
+#scale{
+  outline: none;
+  border: none;
+}
 #temperature button{
   font-size: 1em;
   background: none;
