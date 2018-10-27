@@ -16,7 +16,7 @@ fetch("https://ipapi.co/json/")
 
 function getWeather(latitude, longitude) {
   fetch(
-    `https://api.darksky.net/forecast/26dff73d9b715c2a6347c19a719bec83/${latitude},${longitude}`
+    `https://cors-anywhere.herokuapp.com/https://api.darksky.net/forecast/26dff73d9b715c2a6347c19a719bec83/${latitude},${longitude}`
   )
     .then(function(response) {
       return response.json();
