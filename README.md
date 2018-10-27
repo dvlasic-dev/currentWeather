@@ -1,2 +1,4 @@
-[![Stories in Ready](https://badge.waffle.io/dvlasic-dev/weatherMachine.png?label=ready&title=Ready)](https://waffle.io/dvlasic-dev/weatherMachine?utm_source=badge)
-# Weather machine
+
+# Current Weather
+
+Application that show's just the current weather. Is uses ip-api to get client coordinates in case browser navigator is blocked. Dark Sky API is used to fetch the weather information.
